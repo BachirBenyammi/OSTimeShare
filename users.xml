@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<users>
+	<user><nom>BENYAMMI</nom><prenom>Bachir</prenom><compte>benbac</compte><motdepasse>P@ssw0rd</motdepasse><email>benbac20@gmail.com</email><etat>-1</etat></user>
+	<user><nom>nom1</nom><prenom>prenom1</prenom><compte>prenom1</compte><motdepasse>12345</motdepasse><email>nom1@yahoo.com</email><etat>-1</etat></user>
+	<user><nom>nom2</nom><prenom>prenom2</prenom><compte>prenom2</compte><motdepasse>qwerty</motdepasse><email>nom2@hotmail.com</email><etat>-1</etat></user>
+	<user><nom>nom3</nom><prenom>prenom3</prenom><compte>nom3</compte><motdepasse>azerty</motdepasse><email>nom3@gmail.com</email><etat>-1</etat></user>
+	<user><nom>nom4</nom><prenom>prenom4</prenom><compte>Afroh</compte><motdepasse>2006</motdepasse><email>nom4@outlook.com</email><etat>0</etat></user>
+</users>
